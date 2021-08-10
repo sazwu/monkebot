@@ -16,7 +16,7 @@ Here are some of the tutorials I used:
 
 Additionally, some variables, such as my auth token, should be hidden through Replit's secret function and I recommend you do the same.
 
-I made this bot for fun and enjoy having it spam the chat whenever I talk like a parrot and a pirate.
+I made this bot for fun and enjoy having it spam the chat whenever I talk--like a pirate and her parrot.
 
 Known bugs:
 - When using the help command, the prefix is showed as undefined.
