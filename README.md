@@ -6,13 +6,13 @@ I also used some code from forum websites, such as stack overflow.
 I maintain the bot through Replit and UptimeRobot. 
 
 Here are some of the tutorials I used:
-https://www.digitaltrends.com/gaming/how-to-make-a-discord-bot/
-https://discordjs.guide/
-https://www.codementor.io/@garethdwyer/building-a-discord-bot-with-node-js-and-repl-it-mm46r1u8y#keeping-our-bot-alive
-https://dev.to/fizal619/so-you-want-to-make-a-discord-bot-4f0n
-https://youtu.be/RxX_vCfT3ok
-https://youtu.be/B60Q74FHFBQ
-https://www.lifewire.com/make-a-discord-bot-4767916
+- https://www.digitaltrends.com/gaming/how-to-make-a-discord-bot/
+- https://discordjs.guide/
+- https://www.codementor.io/@garethdwyer/building-a-discord-bot-with-node-js-and-repl-it-mm46r1u8y#keeping-our-bot-alive
+- https://dev.to/fizal619/so-you-want-to-make-a-discord-bot-4f0n
+- https://youtu.be/RxX_vCfT3ok
+- https://youtu.be/B60Q74FHFBQ
+- https://www.lifewire.com/make-a-discord-bot-4767916
 
 Additionally, some variables, such as my auth token, should be hidden through Replit's secret function and I recommend you do the same.
 
